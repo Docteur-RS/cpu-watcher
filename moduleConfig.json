@@ -1,0 +1,27 @@
+{
+    "moduleName": "memoryMngr",
+    "files": {
+        "frontEnd": [
+            {
+                "className": "fCpu",
+                "filePath": "cpu"
+            }
+        ],
+        "backEnd": [
+           {
+                "objectName": "bCpu",
+                "filePath": "cpu"
+            }
+        ],
+        "templates": [
+           {
+                "templateId": "cpuUi",
+                "filePath": "cpuUi"
+            },
+            {
+                "templateId": "cpuValue",
+                "filePath": "cpuValue"
+            }
+        ]
+    }
+}

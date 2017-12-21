@@ -1,0 +1,6 @@
+{
+    "R|(show).*(cpu|CPU)": {
+        "_response": "FRONT|memoryMngr|fCpu|initCpuUi",
+        "_jump": "mainSection"
+    }
+}
