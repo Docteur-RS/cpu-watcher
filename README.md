@@ -1,7 +1,7 @@
 # cpu-watcher
 Let you watch your CPU's activity
 
-<img style="margin-left: 32%" width="360px" height="228px" src="https://www.prlog.org/10176008-eboostr.png">
+<img style="margin-left: 32%" src="https://www.prlog.org/10176008-eboostr.png">
 
 
 Welcome to the new era of control.
