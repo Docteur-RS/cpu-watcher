@@ -1,10 +1,10 @@
 # cpu-watcher<br>
-Let you watch your CPU's activity<br>
+<b>Let you watch your CPU's activity</b><br>
 
 <img style="margin-left: 40%" src="https://www.prlog.org/10176008-eboostr.png"><br>
 
 
-Welcome to the new era of control.<br>
+Welcome to the new era of control.<br><br>
 
 This Vikci plugin lets you oversight the performance of your computer's CPU.<br>
 
